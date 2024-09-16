@@ -1,3 +1,7 @@
+//Names: Rashard, Ricardo// 
+//Date: 9/16/2024// 
+//Title: Mad Libs//
+//Description: Put user inputs into a pre made paragraph.//
 import java.util.Scanner;
 public class Main{
     public static void main(String[] args){
